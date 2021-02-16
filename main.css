@@ -1,0 +1,25 @@
+/*
+
+TNPG: TRZ 
+Terry Tan 
+IntroCS pd 2 sec 2 
+HW05 Stuylin 
+2021-02-15
+
+*/
+
+
+h1{
+    color: #424549; /* changes text color */
+    background-color: #FFFFFF /* changes the color of the background */
+}
+
+h2{
+    color: #FFFFFF;
+}
+
+body{
+    color: #FFFFFF;
+    background-color: #424549;
+    font-family: KG red hands /* changes the font family */
+}
